@@ -1,0 +1,12 @@
+e:\Tomo\c#\GetPostApp\GetPostApp\GetPostApp\obj\Debug\GetPostApp.csprojAssemblyReference.cache
+e:\Tomo\c#\GetPostApp\GetPostApp\GetPostApp\obj\Debug\GetPostApp.csproj.CoreCompileInputs.cache
+e:\Tomo\c#\GetPostApp\GetPostApp\GetPostApp\bin\Debug\GetPostApp.exe.config
+e:\Tomo\c#\GetPostApp\GetPostApp\GetPostApp\bin\Debug\GetPostApp.exe
+e:\Tomo\c#\GetPostApp\GetPostApp\GetPostApp\bin\Debug\GetPostApp.pdb
+e:\Tomo\c#\GetPostApp\GetPostApp\GetPostApp\obj\Debug\GetPostApp.exe
+e:\Tomo\c#\GetPostApp\GetPostApp\GetPostApp\obj\Debug\GetPostApp.pdb
+e:\Tomo\c#\GetPostApp\GetPostApp\GetPostApp\bin\Debug\Newtonsoft.Json.dll
+e:\Tomo\c#\GetPostApp\GetPostApp\GetPostApp\bin\Debug\System.Net.Http.Formatting.dll
+e:\Tomo\c#\GetPostApp\GetPostApp\GetPostApp\bin\Debug\Newtonsoft.Json.xml
+e:\Tomo\c#\GetPostApp\GetPostApp\GetPostApp\bin\Debug\System.Net.Http.Formatting.xml
+e:\Tomo\c#\GetPostApp\GetPostApp\GetPostApp\obj\Debug\GetPostApp.csproj.CopyComplete
