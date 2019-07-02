@@ -55,20 +55,16 @@ namespace GetPostApp
         private static string getUser = "users/26cc8499-790e-4697-a6bc-658107efdb7e";
         private static string getDetails = "users/details/2dc04930-e862-4d86-b4a4-3005c0e62df7";
         private static string getAllDetails = "users/alldetails/26cc8499-790e-4697-a6bc-658107efdb7e";
+        private static string empty = "";
 
 
 
         public static HttpClient client = new HttpClient();
 
-        static void AddId()
-        {
-            idList.Add("26cc8499-790e-4697-a6bc-658107efdb7e");
-        }
-    
         static void Main(string[] args)
         {
-            client.BaseAddress = new Uri("http://52.211.158.241/");
-            Get.RetrieveUser(getAllDetails);
+            client.BaseAddress = new Uri("http://ip.jsontest.com/");
+            Get.RetrieveUser(empty);
             //Post.PostUser(retrievePassword, User.user);
             //Put.PutDetails();
             //Post.PostSkills();
